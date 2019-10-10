@@ -1,4 +1,6 @@
 # CM120
 Phaser Game
 
-A CM120 course project
+CM120 Course Group Project
+
+Spring 2019
